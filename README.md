@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Dela 👋
 
-<!--
-**dela-asipunu/dela-asipunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in Cybersecurity, Software Development and Technology.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student
+- 🔐 Exploring Cybersecurity and Information Security
+- 💻 Building software projects
+- 🌱 Currently learning ...
+
+🛠️ Technologies
+
+Languages:
+- Python
+- JavaScript
+- HTML/CSS
+
+Tools:
+- Linux
+- Git/GitHub
+- Windows Administration
+
+
+
+📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/desmondasipunu/
+Email: asipunudela@gmail.com
